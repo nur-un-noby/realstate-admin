@@ -15,7 +15,8 @@ dependencies:
   firebase_core: ^3.8.0
   firebase_auth: ^5.3.3
   cloud_firestore: ^5.5.0
-  firebase_storage: ^12.3.6
+  supabase_flutter: ^2.8.1
+  #image_picker: ^0.8.7+5
   # firebase_app_check: ^0.2.1+6
 
   # State management
@@ -37,10 +38,11 @@ dependencies:
 
   # Utility packages
   intl: ^0.19.0
-  uuid: ^4.2.2
+  uuid: ^4.5.1
 
   # Animations
   animations: ^2.0.10
+  flutter_riverpod: ^2.6.1
 
 dev_dependencies:
   flutter_test:
